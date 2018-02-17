@@ -1,0 +1,8 @@
+core.*
+*.RData
+*.csv
+models
+rawData
+images
+.Rhistory
+.Rproj.user
